@@ -1,0 +1,20 @@
+# Compiled executables
+/myshell
+/myshell.exe
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+/build/
+/cmake-build-*/
+
+# Debug files
+*.pdb
+
+# OS files
+.DS_Store
+Thumbs.db
